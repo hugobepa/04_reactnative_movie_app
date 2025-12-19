@@ -29,3 +29,5 @@ https://reactnavigation.org/docs/drawer-navigator/
 #iconos
 https://docs.expo.dev/guides/icons/
 https://ionic.io/ionicons
+
+https://www.npmjs.com/package/axios
