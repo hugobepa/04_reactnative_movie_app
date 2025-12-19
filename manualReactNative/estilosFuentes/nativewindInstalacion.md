@@ -8,7 +8,7 @@ npm install --dev tailwindcss@^3.4.17 prettier-plugin-tailwindcss@^0.5.11
 1. solucion:
 
 npx tailwindcss init
-./tailwind.config.ts:
+./tailwind.config.js:
 
 ```
 /** @type {import('tailwindcss').Config} */
@@ -27,7 +27,7 @@ module.exports = {
 }
 ```
 
-./app/global.ccs:
+./app/global.css:
 
 ```
 @tailwind base;
