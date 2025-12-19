@@ -27,7 +27,15 @@ https://github.com/DevTalles-corp/expo-navigation-app/blob/fin-seccion-07/app/_l
 https://reactnavigation.org/docs/drawer-navigator/
 
 #iconos
+https://lucide-animated.com/
 https://docs.expo.dev/guides/icons/
 https://ionic.io/ionicons
 
 https://www.npmjs.com/package/axios
+
+#tanstack
+https://tanstack.com/
+https://tanstack.com/query/latest
+https://tanstack.com/query/latest/docs/framework/react/quick-start
+
+https://www.youtube.com/watch?v=drtxWx1XojI (configuration format prettier en VS)
