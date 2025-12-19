@@ -12,6 +12,8 @@ https://blog.saeloun.com/2025/03/24/react-19-ref-as-prop/
 
     Use useImperativeHandle: If you need to expose specific methods or properties via the ref, use useImperativeHandle to define what the ref should expose.
 
+solucion web:
+
 ```
     import React, { forwardRef, useImperativeHandle, useRef } from 'react';
 
@@ -38,6 +40,8 @@ forwardRef Error :Component definition is missing display name
 https://stackoverflow.com/questions/71877298/how-to-fix-the-component-definition-is-missing-display-name-error
 https://stackoverflow.com/questions/67992894/component-definition-is-missing-display-name-for-forwardref
 https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/display-name.md
+
+ejercicio nuestro:
 
 ```
 const MainSlideshow = forwardRef(({ movies }: Props,ref) => {
